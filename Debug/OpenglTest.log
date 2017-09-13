@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\opengl\opengltest\opengltest\main.cpp(36): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  OpenglTest.vcxproj -> F:\opengl\OpenglTest\Debug\OpenglTest.exe
+  OpenglTest.vcxproj -> F:\opengl\OpenglTest\Debug\OpenglTest.pdb (Partial PDB)
